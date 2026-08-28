@@ -1,6 +1,6 @@
-# evomas-instance-trivial
+# opendraco-instance-trivial
 
-Synthetic SWE-bench instance for EvoMas APR evaluation — **trivial** difficulty tier.
+Synthetic SWE-bench instance for OpenDraco APR evaluation — **trivial** difficulty tier.
 
 Contains a one-function Python module with a single deliberate bug: a
 comparison-operator inversion (the literal `1` should be `0`). The fix
